@@ -6,7 +6,7 @@ welcome to my github!
 
 Hi, I'm fish, a boy.
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![image](https://github.com/ooooxianyu/ooooxianyu/data/dino.gif)
 
 
 - 😀 一个正在自学AI算法的小白白…New to AI…
