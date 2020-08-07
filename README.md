@@ -15,20 +15,20 @@ Hi, I'm fish, a boy.
 - 💬 可以在这里给我聊天说话！[here](https://github.com/ooooxianyu/ooooxianyu/issues)
 
 
-<a href="https://github.com/ooooxianyu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ooooxianyu&show_icons=true&include_all_commits=true&theme=radical" alt="Fish's github stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
-<a href="https://github.com/ooooxianyu/github-readme-stats">
-  <!-- Change the `github-readme-stats.ooooxianyu1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooooxianyu&layout=compact&theme=radical" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/ooooxianyu/github-readme-stats">
-  <!-- Change the `github-readme-stats.ooooxianyu1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ooooxianyu&repo=github-readme-stats&theme=radical" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
 </a>    
-<a href="https://github.com/ooooxianyu">
-  <!-- Change the `github-readme-stats.ooooxianyu1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ooooxianyu&repo=ooooxianyu.github.io&theme=radical" />
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
 </a>
 
