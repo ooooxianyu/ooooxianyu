@@ -8,7 +8,7 @@ Hi, I'm fish, a boy.
 
 - 😀 一个正在自学AI算法的小白白…New to AI…
 - 🆒 我的CSDN博客：（https://blog.csdn.net/weixin_41809530）
-- 📫 email：（985201824@.comcom）
+- 📫 email：（985201824@qq.com）
 - 💬 可以在这里给我聊天说话！[here](https://github.com/ooooxianyu/ooooxianyu/issues)
 
 
