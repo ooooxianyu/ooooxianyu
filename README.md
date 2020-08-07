@@ -1,6 +1,8 @@
 ### Hi there, I'm [fish!](https://github.com/ooooxianyu) 👋
 welcome to my github!
 
+<img src="https://github.com/ooooxianyu/ooooxianyu/blob/master/zoro.gif">
+
 <br />
 <br />
 
