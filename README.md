@@ -15,19 +15,19 @@ Hi, I'm fish, a boy.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ooooxianyu&show_icons=true&include_all_commits=true&theme=radical&bg_color=COLOR5" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ooooxianyu&show_icons=true&include_all_commits=true&theme=radical&bg_color=#6495ED" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooooxianyu&layout=compact&theme=radical&bg_color=COLOR5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooooxianyu&layout=compact&theme=radical&bg_color=#6495ED" />
 </a>
 
 <a href="https://github.com/ooooxianyu/ooooxianyu">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ooooxianyu&repo=ooooxianyu&theme=radical&bg_color=COLOR5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ooooxianyu&repo=ooooxianyu&theme=radical&bg_color=#6495ED" />
 </a>
 
 <a href="https://github.com/ooooxianyu/yoloV5-arcface_forlearn">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ooooxianyu&repo=yoloV5-arcface_forlearn&theme=radical&bg_color=COLOR5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ooooxianyu&repo=yoloV5-arcface_forlearn&theme=radical&bg_color=#6495ED" />
 </a>
